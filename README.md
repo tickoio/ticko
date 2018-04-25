@@ -9,8 +9,8 @@ Airlines spend 3% of their revenue on IT solutions. At the end of 2017 the reven
 # Token Details
 Total amount of TICK released is 1,000,000,000. No additional token releases will take place. If all TICK available for sale are not purchased, the remaining tokens are destroyed. Token distribution takes place 10 days after the token sale is complete.
 
-# Token Ticker: TICK
-# Total Token Supply: 1,000,000,000 TICK
-# Initial Price: 1000 TICK = 0.0651 ETH
-# Token Delivery Date: 10 days after closing token sale
-# We Will Accept: ETH, BTC, BCH, XMR, LTC, DASH
+Token Ticker: TICK
+Total Token Supply: 1,000,000,000 TICK
+Initial Price: 1000 TICK = 0.0651 ETH
+Token Delivery Date: 10 days after closing token sale
+We Will Accept: ETH, BTC, BCH, XMR, LTC, DASH
